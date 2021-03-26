@@ -19,17 +19,6 @@
         tools:layout_editor_absoluteY="272dp" />
 
     <Button
-        android:id="@+id/btn"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:onClick="addone"
-        android:orientation="vertical"
-        android:text="加1"
-        android:textSize="36sp"
-        tools:layout_editor_absoluteX="147dp"
-        tools:layout_editor_absoluteY="331dp" />
-
-    <Button
         android:id="@+id/btn2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
